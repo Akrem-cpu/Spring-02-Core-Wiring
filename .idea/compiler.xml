@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-01-Core-IoC" />
         <module name="Spring--oo--coupling" />
+        <module name="Spring-02-Core-Wiring" />
       </profile>
     </annotationProcessing>
   </component>
