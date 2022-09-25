@@ -1,5 +1,8 @@
 package com.akrem.bean_annotation;
 
+import org.springframework.context.annotation.ComponentScan;
+
+
 public class FullTimeMentor {
 
 
